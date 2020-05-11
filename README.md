@@ -6,3 +6,6 @@ Part1:
 * Prediction results in DSO 560 Project Part I - Final Results.csv
 * Prediction_data_template.xlsx is a format for future prediction use
 * Ipynb scripts are just backup for all the work produced
+
+Part2:
+* The algorithm and results in DSO 560 Project Part II.ipynb
